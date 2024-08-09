@@ -1,0 +1,4 @@
+CARD_NAME,DAMAGE_#,HEALTH_#,TYPE_#
+Sword,5,0,0
+Shield,0,5,0
+Worm,1,1,0
